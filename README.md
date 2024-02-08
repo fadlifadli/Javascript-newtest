@@ -20,7 +20,7 @@ Open source
 ### Instalasi
 Apa saja peralatan yang harus disiapkan untuk belajar Javascript?
 Node.js [download](https://nodejs.org/en/download/)
-Teks Editor[rekomendasi: VS Code](https://www.petanikode.com/text-editor-vscode/)
+Teks Editor [rekomendasi: VS Code](https://www.petanikode.com/text-editor-vscode/)
 Setelah selesai buka terminal dan jalankan
 $ node  --version
 
@@ -35,6 +35,6 @@ $npm init
 
 $npm install
 
-Buka folder VS Code dan Buat struktur file seperti dibawah ini
+Buka folder VS Code dan membuka reposiroty dari github ini.
 
 
