@@ -1,4 +1,4 @@
-# BOOTCAMP_JavaScript 
+# BOOTCAMP_JavaScript SANBERCODE
 
 ## Javascript
  
@@ -9,7 +9,7 @@ Front-end friendly
 Komunitas yang besar dan di maintain dengan baik
 Open source
 
-## Latihan code
+### Latihan code
 - Cara Membuat Variabel di Javascript
 - Mengenal Tipe Data
 - Program input nilai
