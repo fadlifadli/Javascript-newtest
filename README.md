@@ -17,7 +17,7 @@ Open source
 - Perulangan
 - Membuat Fungsi
 
-### Instalasi
+#### Instalasi
 Apa saja peralatan yang harus disiapkan untuk belajar Javascript?
 
 Node.js [download](https://nodejs.org/en/download/)
@@ -41,4 +41,6 @@ $npm install
 
 Buka folder VS Code dan membuka reposiroty dari github ini.
 
+##### perintah menjalankan di terminal : 
+node -lokasifile 
 
