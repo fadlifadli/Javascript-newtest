@@ -2,7 +2,7 @@
 
 ## Javascript
  
-[Kenapa Javascript digunakan](https://nodejs.org/en/download/)
+Kenapa Javascript digunakan
 Sangat mudah untuk memulai
 Code yang mudah dibaca
 Front-end friendly
@@ -17,5 +17,24 @@ Open source
 - Perulangan
 - Membuat Fungsi
 
+### Instalasi
+Apa saja peralatan yang harus disiapkan untuk belajar Javascript?
+Node.js [download](https://nodejs.org/en/download/)
+Teks Editor[rekomendasi: VS Code](https://www.petanikode.com/text-editor-vscode/)
+Setelah selesai buka terminal dan jalankan
+$ node  --version
+
+$ npm --version
+
+Buat sebuah folder dengan menggunakan perintah 
+$mkdir belajar-js
+
+$cd belajar-js
+
+$npm init
+
+$npm install
+
+Buka folder VS Code dan Buat struktur file seperti dibawah ini
 
 
