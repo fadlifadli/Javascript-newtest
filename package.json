@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "pekanan 2 tugas  sanbercode",
+  "main": "input.js",
+  "scripts": {
+    "test": "node intro.js"
+  },
+  "author": "fadhli",
+  "license": "ISC"
+}
